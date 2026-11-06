@@ -1,0 +1,8 @@
+[INFO] Application started successfully.
+[WARN] Low memory detected.
+[INFO] User logged in.
+[ERROR] Database connection failed.
+[WARN] Retrying connection...
+[ERROR] Timeout exceeded.
+[INFO] User logged out.
+[ERROR] Application crashed.
